@@ -65,13 +65,6 @@ A university project that helps hostel residents *manage meals, share expenses, 
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sarkersaifuddin&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarkersaifuddin&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
-
 ---
 
 <h3 align="left">🌐 Connect with me:</h3>
